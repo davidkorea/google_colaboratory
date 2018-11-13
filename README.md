@@ -1,3 +1,5 @@
+？？ 向量内积可以交换
+
 # google_colaboratory
 
 soooooooooo slow, bad!!
